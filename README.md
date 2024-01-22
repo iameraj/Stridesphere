@@ -1,2 +1,4 @@
-# Firezone
-Its a E-commerce website frontend.
+# Stridesphere
+
+Embirzon project - I
+E-commerce website frontend using bootsrap
